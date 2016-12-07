@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum tempor eros, 
 
 ### Confirmación del commit
 Aliquam ut quam tellus. Curabitur id eleifend enim. Praesent non ultrices mi. Curabitur maximus mi lorem, in tincidunt leo ornare eu. Vivamus hendrerit gravida nulla quis tincidunt. Aenean non dapibus lectus. Aliquam ut venenatis eros, sollicitudin commodo orci. Proin consectetur sapien vel gravida fringilla. Aenean blandit massa et turpis elementum, in tincidunt nunc faucibus.
+
+Esta línea fue creada en la rama master.
